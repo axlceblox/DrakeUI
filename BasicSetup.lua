@@ -1,4 +1,4 @@
-local DrakeUI = loadstring(game:HttpGet("https://raw.githubusercontent.com/YOUR_USER/REPO/main/Source.lua"))()
+local DrakeUI = loadstring(game:HttpGet("https://raw.githubusercontent.com/DrakeDevi/DrakeDevi/refs/heads/main/DrakeUI.lua"))()
 
 local Window = DrakeUI:CreateWindow({Name = "DrakeUI Test"})
 local Main = DrakeUI:CreateTab(Window, {Name = "Main"})
